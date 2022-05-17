@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 - 💻 PROGRAMMING LANGUAGES AND FRAMEWORKS <br>
      <b> 💪 java / c / c++ / node.js / SQL / android / js / php / react <br> <b>
   
-- TOOLS AND TECHNOLOGIES <br>
+- 🛠️ TOOLS AND TECHNOLOGIES <br>
       <b> 💪 Android studio / GIT / Visual studio / eclipse / postman / vs code <b>
-- OTHERS <br>
+- 🚴 OTHERS <br>
       <b> 💪 Photoshop / filmora etc <b>
 
-- SOME WORK EXAMPLES <br><br>
+- 👀 SOME WORK EXAMPLES <br><br>
            <img src ="https://github.com/IT20253912/IT20253912/blob/main/gif/electro.gif" width = "40%">
            <img src ="https://github.com/IT20253912/IT20253912/blob/main/gif/itpm.gif" width = "40%">
            <br><br>
