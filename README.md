@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **IT20253912/IT20253912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,22 @@ Here are some ideas to get you started:
 
 ![](https://github.com/IT20253912/IT20253912/blob/main/img/finish%20git%20banner.jpg)
 
-### 😎I'm Chathudu <img src ="">
+### 😎I'm Chathudu <img src ="https://github.com/IT20253912/IT20253912/blob/main/gif/wave.gif" width = "20px">
 
+### MY SERVICES
+- WEB APPLICATION DEVELOPMENT
+- MOBILE APPLICATION DEVELOPMENT
+- DESKTOP APPLICATION DEVELOPMENT
+- CREATIVE VIDEO EDITING
+- LOGO DESGN
+- PHOTO EDITING
 
+### SKILLS
+- 💻 PROGRAMMING LANGUAGES AND FRAMEWORKS <br>
+     <b> 💪 java / c / c++ / node.js / SQL / android / js / php / react <br> <b>
+  
+- TOOLS AND TECHNOLOGIES <br>
+      <b> 💪 Android studio / GIT / Visual studio / eclipse / postman / vs code <b>
 - 🔭 I’m currently working on this page. 
 
 
