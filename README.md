@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋, I'm Chathudu
+  😎I'm Chathudu
+
 ![](https://github.com/IT20253912/IT20253912/blob/main/img/finish%20git%20banner.jpg)
 
 
