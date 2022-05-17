@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-  😎I'm Chathudu
+
 
 ![](https://github.com/IT20253912/IT20253912/blob/main/img/finish%20git%20banner.jpg)
+
+### 😎I'm Chathudu <img src ="">
 
 
 - 🔭 I’m currently working on this page. 
