@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋, I'm Chathudu
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/IT20253912/IT20253912/blob/main/img/finish%20git%20banner.jpg)
 
 
 - 🔭 I’m currently working on this page. 
